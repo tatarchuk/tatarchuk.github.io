@@ -25,7 +25,7 @@ video {
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0; 
-  text-shadow: 1px 1px 2px black, 0 0 1em blue;
+  text-shadow: 1px 1px 2px black, 0 0 1em #ff9900;
 }
 
 .overlay h1 {
